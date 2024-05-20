@@ -13,6 +13,12 @@ Essa é a primeira versão do jogo, desenvolvido em 2020 como um trabalho de pro
 
 O grupo está em processo de discussão para adapta-lo para o mobile e web para identificarmos o impacto da comunidade e geração de portifólio
 
+
+![image](https://github.com/MathServilha/Sem_Valor_game/assets/103152240/7ecfd804-6d98-4465-a0b9-890d9f714554)
+
+
+
+
 **Equipe**
 
 Artur Pessoa -> Desenvolvedor | Sonorização
